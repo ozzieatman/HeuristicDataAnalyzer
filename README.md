@@ -1,5 +1,5 @@
 # PredictionEngine
-Food Prediction Engine using Genetic Algorithms and Sediment Analysis
+Food Prediction Engine using AI / ML / Genetic Algorithms and Sediment Analysis
 
 1) Food Assortment may be modified within the FoodModel class; if a import from external file or database is wanted then custom implementation will be needed. However for testing, simply editing the String[] names member should be sufficient.
 
